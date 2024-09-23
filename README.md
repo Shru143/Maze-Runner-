@@ -5,7 +5,8 @@ Maze Runner is an exciting maze-solving game built using [Unity Engine](https://
 ## Table of Contents
 - [Features](#features)
 - [Gameplay](#gameplay)
-- [Scripts](#scripts)
+- [Script](#script)
+- [Images](#images)
 
 ## Features
 - **Dynamic Mazes**: Randomly generated mazes, ensuring that each playthrough is unique.
@@ -69,3 +70,16 @@ The objective of Maze Runner is to find your way through intricate mazes while c
         //transform.Translate(_deltaX*Time.deltaTime, 0, _deltaZ*Time.deltaTime);
 
     }}
+
+
+### Images  
+
+
+![maze png](https://github.com/user-attachments/assets/b08a7f31-6524-4e52-91b1-830f764f2d6f)
+
+
+![maze2](https://github.com/user-attachments/assets/22146d8a-87ac-46bb-9812-4f0eb17efc49)
+
+
+![image_2024-09-23_224718064](https://github.com/user-attachments/assets/7eb60e0b-d047-4331-b223-7ef10ed511ce)
+
